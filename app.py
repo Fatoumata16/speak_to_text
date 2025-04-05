@@ -55,7 +55,8 @@ if st.session_state['state'] == "done" and st.session_state['audio_data']:
 if st.session_state['state'] == "transcription":
     placeholder = st.empty()
     placeholder.info("Transcription et traduction en cours...")
-    # Simulation de transcription (remplacer par l'appel à transcribe_audio si votre modèle est prêt)
+    # Simulation de transcription (remplacer par l'appel à transcribe_audio)
+    #transcription = transcribe_audio(audio_data)
     transcription = "Test de transcription. Un chasseur sachant chasser sans son chien est un bon chasseur. Les chaussettes de l'archiduchesse sont sèches et archi-sèches."
     placeholder.empty()
     
