@@ -1,0 +1,16 @@
+djelia==0.1.0
+gTTS==2.5.4
+joblib==1.4.2
+librosa==0.11.0
+maliba_ai==0.0.1
+numpy==2.2.5
+pydub==0.25.1
+pyttsx3==2.98
+streamlit==1.41.1
+streamlit==1.44.1
+streamlit_TTS==0.0.7
+streamlit_TTS==0.0.7
+torch==2.2.2
+torch==2.6.0
+transformers==4.47.1
+transformers==4.38.2
